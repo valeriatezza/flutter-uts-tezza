@@ -36,7 +36,7 @@ Aplikasi Tezza adalah aplikasi mobile berbasis Flutter Aplikasi Tezza ini dibuat
 ![Dashboard](dashboard.png)
 
 ### 3. Lupa Password Page
-![Lupa password](lupa password.png)
+![Lupa password](lupa_password.png)
 
 ---
 
